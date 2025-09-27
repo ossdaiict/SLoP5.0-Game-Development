@@ -22,7 +22,7 @@ This project is designed for the SLOP 5.0 event at GDG DA-IICT, focusing on:
 1. Fork the repository to your GitHub account
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Russian-Roulette.git
+   git clone https://github.com/ossdaiict/SLoP5.0-Game-Development
    cd Russian-Roulette
    ```
 3. Open the project in Godot Engine
