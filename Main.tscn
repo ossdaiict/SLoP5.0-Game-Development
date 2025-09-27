@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://mqx8jkfxydam"]
+
+[node name="Main" type="Node2D"]
+
+[node name="GameManager" type="Node" parent="."]
+
+[node name="PlayerController" type="Node2D" parent="."]
+
+[node name="DealerAI" type="Node" parent="."]
+
+[node name="Shotgun" type="Node2D" parent="."]
+
+[node name="UIManager" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
