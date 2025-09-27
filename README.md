@@ -1,5 +1,5 @@
 # SLoP5.0-Game-Development
-# Russian Roulette - Godot Game Development Template
+# Russian Roulette - Godot Game Development
 
 A collaborative game development project inspired by Buckshot Roulette, built in Godot 4.3+ for the SLOP 5.0 event at GDG DA-IICT.
 
